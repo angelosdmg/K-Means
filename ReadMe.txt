@@ -1,3 +1,8 @@
+Created the functionality for two - dimensional points, based on himank's implementation.
+
+
+Original Description:
+
 K-Means Clustering:
 
 K-means clustering is a classical clustering algorithm that uses an expectation maximization like technique to partition a number of data points into k clusters. 
